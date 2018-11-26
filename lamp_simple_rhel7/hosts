@@ -1,7 +1,7 @@
 [webservers]
-webserver.local
+ssslavenode1
+ssslavenode2
 
 [dbservers]
-dbserver.local
-
-
+ssslavenode3
+ssmasternode
